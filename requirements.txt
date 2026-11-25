@@ -1,0 +1,19 @@
+# PyTorch GPU sürümü ayrıca kurulur (RTX 50 serisi için CUDA 12.8):
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+langchain
+langgraph
+langchain-ollama
+langchain-chroma
+langchain-huggingface
+chromadb
+sentence-transformers
+transformers
+huggingface_hub
+rank_bm25
+pydantic-settings
+pandas
+scikit-learn
+matplotlib
+seaborn
+tabulate
+streamlit

@@ -1,0 +1,13 @@
+__pycache__/
+.env
+.claude/
+.vscode/
+
+data/chroma/
+data/raw/
+results/retrieval_cache.json
+eval/questions_ham.csv
+
+belgeler/
+konusma_metinleri/
+sunum_gorselleri/

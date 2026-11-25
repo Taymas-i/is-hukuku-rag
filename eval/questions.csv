@@ -1,0 +1,171 @@
+﻿id,soru,kapsam,gold_ids,kaynak,kontrol_edildi
+1,İşverenimin iş sözleşmesini feshetmesi için ne kadar önceden bildirim vermesi gerekiyor?,1,4857-17,llm,evet
+2,"3 yıldır çalışıyorum, işten çıkarılırsam ne kadar önceden haber verilmeli?",1,4857-17,llm,evet
+3,"Gebelik durumumda işverenle iş sözleşmesinde belirli bir ücret belirtmiyor. İşverenin, cinsiyet ve gebelik nedeniyle daha düşük bir ücret uygulamasına karşı olabilirim mi?",1,4857-5,llm,evet
+5,"İşverenim 1 ay boyunca izimde 15 gün izin verdirdi. Sorunun yanıtı bu maddeden geldiğinde, işverenim ne kadar idari para cezası ödemeyi bekliyorum?",1,4857-103,llm,evet
+6,"3 yıldır benim işvereniyle işimde çalışıyorum. Eğer işverenimiz işyerini başka bir şirketin altına alacak olursa, benim iş sözleşmem ne olacak ve ne kadar önceden haber alacağım?",1,4857-6,llm,evet
+7,"Şirketi değiştirdikten sonra, eski ve yeni şirketlerde ayrı ayrı çalıştığım sürelerin kıdem tazminatı hesaplanırken nasıl değerlendirilir? ",1,1475-14,llm,evet
+8,"Deneme süresi içinde çalıştığım işte, işverenin beni işten çıkarması durumunda, fesh edilen iş sözleşmesi sırasında kazandığım ücretler ve diğer haklarım korunmuş mu?",1,4857-15,llm,evet
+11,"Çalıştığım şirket, çalışma belgelerinde yanlış bilgiler belirtiyor. Bu durumda şirket hangi ceza riskine maruz kalabilir?",1,4857-99;4857-28,llm,evet
+13,"İşveren, yıllık ücretli iznini kullanan işçiye ücretini nasıl ödemek zorundadır?",1,4857-57,qa_benchmark,evet
+15,"3 yıldır aynı işyerinde çalışıyorum. Eğer işten çıkarılıyorsam, işverenin ne kadar önceden bilgilendirebileceğini biliyor musunuz?",1,4857-17,llm,evet
+16,"Evet, 50 kişilik bir işverenim. Eğer yüzde üç engelli işçi çalıştırma yükümlülüğüne uymak istiyorsam, ne kadar engelli işçi işe alınmalı? Bu engelli işçilerin işim ne olabilir? Yeraltındaki veya sualtındaki işlerde çalıştırılamayacak engelliler var mı? ",1,4857-30,llm,evet
+17,"3 yıldır çalışıyorum, ulusal bayramları ve genel tatil günlerinde çalıştığım zaman, çalıştığı her gün için ne alacağım?",1,4857-47,llm,evet
+20,"3 yıl boyunca aynı işyerinde çalıştığım ve işten çıkarılmama olası olduğuna dair endişelerim var. Hangi süre zarfında işten çıkarılırsam, işverenimin ne kadar öncesinde haber vermesi gereklidir?",1,4857-17,llm,evet
+26,"İşte üçlü danışma kurulunda toplantı yapılacak olay var, toplantı ne zaman yapılmalı? Yönetmelikler bu konuda ne belirtiyor?",1,4857-114,llm,evet
+27,"3 yıldır benimle tam zamanlı iş sözleşmesi olan işvereni, bir gün işten çıkarıyor. Cinsiyetim nedeniyle karşılaştığım muameleyi işverenin eşit davranma ilkesine uygun olmayan bir durum olarak değerlendirebilir miyim?",1,4857-5,llm,evet
+30,"3 yıldır beni işten çıkaracak olursa, işveren ne kadar önceden bildirmeli? Değişikliği kabul etmezsem, ne yapabilirim?",1,4857-22;4857-17,llm,evet
+32,"Yer altı işlerinde çalışan işçiler, normal çalışanlara göre kaç gün daha fazla yıllık izin alırlar?",1,4857-53,qa_benchmark,evet
+36,"Günlük çalışma süresi kararlaştırılmamışsa, her çağrıda en az kaç saat çalıştırılacağı belirliyor mu?",1,4857-14,llm,evet
+37,18 yaşından küçük bir çocuğa gece işte çalışmasını istediğimiz olası olmaz mı? Gece çalışma yasağından neler olabilir?,1,4857-73,llm,evet
+39,"Bir işverenimiz, işçimizin yeni işverenin işe alınmasını bilerek hemen işten ayrılmış. Bu durumu gösteren bir tespit var mı? Eğer varsa, yeni işverenin ne tür bir sorumluluk taşıyor?",1,4857-23,llm,evet
+41,"Eğer işveren benim hakkında belirli bir bilgi topluyorsa, bu bilgileri nasıl kullanması gerektiğini biliyor musun? Mesela, mesai saatlerimden veya günlük çalışma süremden kaynaklanan bilgileri gizli tutmaları gerekiyor mu?",1,4857-75,llm,evet
+44,"Yüzde usulünün uygulandığı işyerlerinde işveren, müşterilerden alınan paraları nasıl kullanmak zorundadır?",1,4857-51,qa_benchmark,evet
+45,Tourizm sektöründe çalışıyorum. Her hafta 40 saatten fazla çalışmak istemedim. Haftalık çalışma süresini nasıl belirleyebilirim?,1,4857-63,llm,evet
+47,"İşveren ile belirli bir süreli bir iş sözleşmesine girip 2 yıldır çalışıyorum. Sözleşmenin bitiminde yeniden sözleşmeye girmek istemiyorum. Bu durumda, belirli süreli sözleşmenin sonunda işveren ne yapabilir?",1,4857-11,llm,evet
+49,İşyerinde çalışan arkadaşımım 1 ay önce işten çıkarılacak olacak. İşverenin hangi süre zarfında bize bildirim vermesi gerekir?,1,4857-17,llm,evet
+54,Yedibuçuk saatlik işte çalışıyorum ve her gün bir saat dinleniyorum. İşverenimden bu süreleri azaltmamı isteyen bir talep alıyorum. Bu durumda ne yapmalıyım?,1,4857-68,llm,evet
+56,"3 yıldır çalışıyorum, işten çıkarılırsam ne kadar önceden haber verilmeli? Bu durumda İşveren en az kaç işçi çıkaracağını belirtmelidir?",1,4857-29;4857-17,llm,evet
+57,Petrol sondağı faaliyetlerinde çalıştığımı düşünüyorum ve bu faaliyetler çerçevesinde gece çalışmak zorunda kalabilirim. Ancak çalıştığım süre yedibuçuk saati geçebilir mi? ,1,4857-69,llm,evet
+59,"Aylığı tam olarak ödenen aylık ücretli bir işçim olsam, hasta, izinli veya sair sebeplerle mazeretli olduğumda ne olacak?",1,4857-49,llm,evet
+62,"Şirket içi bir laboratuvarım var, bu laboratuvarı şirketimizin bir parçası olarak kabul edilir mi?",1,4857-2,llm,evet
+65,"Evetlendiğim bir işte, ancak ücret kesintisi yapıldığını duydum. Şirket hangi durumlarda ücret kesintisi yapabilir ve bu kesinti hakkında ne yapmalıyım?",1,4857-38,llm,evet
+68,"Müteahhitin veya taşeronun hakedişlerinden ödenmeyen ücretleri ödememesi durumunda, işverenin ne yapması gerektiğini öğrenmek için?",1,4857-36,llm,evet
+72,"3 yıldır aynı işverende çalışıyorum. Şimdi başka bir işverenin teklifini aldım ve kabul ettim. Ancak, önceki işverenin sözleşmesi henüz bitmedi. Bu durumda, önceki işverenle yeni işveren arasında sorumluluk neler olabilir?",1,4857-23,llm,evet
+73,"Hafta tatilleri dışında, Konut kapıcı olarak hizmet veriyorum. Ulusal bayram ve genel tatillerde çalışma yapmamı istediğim bir durum varken, ne yapmalıyım?",1,4857-110,llm,evet
+74,Yıllık ücretli izin hakkının hesabında hangi süreler çalışılmış gibi sayılır?,1,4857-55,qa_benchmark,evet
+75,Geçtiğimiz yıldan beri aynı işyerinde çalışıyorum ve hizmet sürem 55 inci maddede belirtilen durumlar dışında kesiliyor. Bu durumda gelecek yıl için yıllık iznim ne zaman geçerli olacak ve her yıl için iznim ne zaman kullanmam gerekecek?,1,4857-54,llm,evet
+76,İşverenin idari para cezası verilmesi için gerekli gerekçe nedir? Mesela bir işçinin ücretlerini belirlenen zamanda ödememesi durumunda ceza ne kadar olur?,1,4857-102;4857-108,llm,evet
+77,"3 yıldır beni işten çıkaracaklar, ne kadar önceden haber verecekler?",1,4857-17,llm,evet
+78,"Çalıştığım şirket, benim için 3 yıl boyunca kıdem tazminatı ödüyor. Benimle birlikte çalışanlarımın kıdem tazminatı yıllık miktarı ne olabilir? Kanunda belirtilen limit nedir?",1,1475-14,llm,evet
+79,"Bir işveren olarak, meslek kuruluşları adına bazı evrakları iş hayatına ilgili bir konuda Bakanlığa veriyorum. Bu evrakları hazırlayanmda ve tutuşturanmda resim vergisi ödemeli miyim?",1,4857-94,llm,evet
+80,"Yüzde uygulaması olan bir işyerinde, genel tatil günü çalıştığım takdirde ne kadar ücret alacağım?",1,4857-47,llm,evet
+81,Toplu iş sözleşmesinde belirtilen yuzdeliklerin belgelenmesi konusunda temsilci seçmemi gerektiren bir durumla karşılaştım. Bu durumda işverenin belgesinin hangi kısımlarını incelemeliyim ve ne tür bir temsilci seçmeliyim?,1,4857-52,llm,evet
+82,Gece çalıştığım bir işte çalışacak olan 17 yaşındaki bir arkadaşım var. Gece çalışmasını kabul etmem gerekiyor mu? ,1,4857-73,llm,evet
+84,"18 yaşından küçük bir arkadaşım gece çalışmak istiyor, ancak işyerinde bunu yapamaz. Neden gece çalışamıyor?",1,4857-73,llm,evet
+85,"18 ay boyunca aynı işte çalıştım ve askeri görevim sona erdikten sonra iki ay içinde işe geri dönmek istiyorum. İşveren beni eski işime tekrar alacak mı? Eğer evetse, beni işe almadan önce ne kadar önceden bilgilendirecek? ",1,4857-31,llm,evet
+88,3 yıldır ben burada çalışıyorum. Asgari ücretlerin ne zaman belirlenmesi bekleniyor? Komisyon kararlarının nasıl ve nerede duyurulacağı bilgileri bana verir misiniz? ,1,4857-39,llm,evet
+89,Süreksiz işlerde yapılan iş sözleşmelerinde hangi yasal maddeler geçerli değildir?,1,4857-10;4857-9,qa_benchmark,evet
+90,Bir arkadaşım 10 ay boyunca fazla çalışma yaptırıldıktan sonra fazla çalışma sonrası belirttiğim dinlenme süresi almadı. İşverenin bu durumu nasıl düzeltmesi gerekiyor? ,1,4857-42,llm,evet
+92,"3 yıldır çalışıyorum, hafta tatil edilmesi gereken durumlar neler olabilir ve işveren ne zaman hafta tatili vermelidir?",1,4857-46,llm,evet
+93,Ebeveynlik izim sona erdi ve işime geri döneceğim. Ne yapmalıyım ve ne zaman bildirmeliyim?,1,4857-13,llm,evet
+98,"Eğer işyerimizin tamamının feshedilecek olup, işyeri hukuki bir işlem sonucunda başka bir şirketin bir parçası olacaksa, işçilere ne olacak ve işveren ne kadar önceden bilgilendirilecek?",1,4857-6,llm,evet
+99,3 yıldır çalışıyorum ve haftada 40 saatten fazla çalışmak istemedim. Haftalık çalışacağım maksimum saati belirleyebilirim mi?,1,4857-63,llm,evet
+101,"İşverenin benimle ilgili yanlış bir davranış sergilediğini saptadım. Bunu öğrenmeye ne kadar zaman geçene kadar, iş sözleşmemi feshetme hakkımı kullanamam?",1,4857-26,llm,evet
+103,Çocuk ve genç işçilerin hangi işlerde çalıştırılabileceğini belirleyen yönetmelik ne zaman çıkarılacak?,1,4857-71,llm,evet
+104,Fazla mesai ücreti ne kadar olmalıdır?,1,4857-41,qa_benchmark,evet
+106,3 yıldır ben bir fabrikada çalışıyorum. Tamamlama işleri için belirli çalışma saatlerimiz dışında çalışmalıyım. Hangi şartlarda ve ne kadar önceden haberi verilmeli?,1,4857-70,llm,evet
+107,"Gece çalıştığımı bilerek işverenimin beni gündüz Çalışmaya geçirebileceğini bekliyorum. Gece çalıştığım haftada, işverenimin beni ikinci haftada nöbetleştirebilir mi? ",1,4857-69,llm,evet
+108,Ulusal bayram gününde iş yapmak zorunda kalıyorum ve bayram öncesi günlerde de hazırlamalar yapmam gerekiyor. Bu işler için ne ücret almalıyım?,1,4857-47,llm,evet
+109,3 yıldır aynı işyerinde çalışıyorum. Sözleşme benim için bir süreksiz iş mi yoksa sürekli iş mi? Borçlar Kanunu hükümlerine göre ne anlama gelecek? ,1,4857-10,llm,evet
+110,"Seferberlik döneminde fazla çalışma yaptırılacağını biliyordum. Ancak, günlük çalışma süresi ne kadar olacak bilmiyordum. Bu durumda, belirli bir süre içinde Cumhurbaşkanlığı'ndan bilgi alabildiğimiz bir süre var mı? ",1,4857-43,llm,evet
+111,Sosyal yardım amacıyla işyerine götürülüp getirilme esnasında araçlarda geçen süre çalışma süresinden sayılır mı?,1,4857-66,qa_benchmark,evet
+112,İşyerinde birden fazla ilde faaliyet gösteren bir işveren için idari para cezaları hangi kurum tarafından ve nerede verilecektir?,1,4857-108,llm,evet
+115,"3 yıldır çalışıyorum ve her ay işverenimden ücret hesap pusulalarını alıyorum. Bir aydan fazla olmamak üzere, bir ayda kaç kez ücret hesap pusulaları almalıyım? Bu maddeden ne anlaşıldığıma göre?",1,4857-37,llm,evet
+120,"İşteki konumda 45 saat çalıştığım bir hafta oldu, fazla çalışma ücreti ne kadar olacak ve neye göre hesaplanır?",1,4857-41,llm,evet
+121,Yıllık izimde 10 gün bayram günleri vardır. Bu günler izimde sayılacak mı? Bayram günleri dışında yine 10 gün izin alabilirim mi?,1,4857-56,llm,evet
+122,"İşveren benimle deneme süresi içinde çalışıyorum. 2 ay sonunda iş sözleşmesi feshedilecek mi yoksa daha uzun süre sürebilir mi? Eğer feshedilirse, deneme süresi neredeyse tamamlandığında işten çıkarılıyorsam ne kadar önceden bilgilendirilmeliyim?",1,4857-15,llm,evet
+124,"İşverenin bildirim şartına uymaması, fesih tazminatı ödenmesini engeller mi?",1,4857-17,qa_benchmark,evet
+126,"Eve dönen yolda işverenimden bir telafi çalışması görevi aldım, bu görevdeki sürenin en fazla kaç saat olabileceğini sormamı istiyorum?",1,4857-64,llm,evet
+127,Temizleme işleri yapmak için genel çalışma saatlerimiz dışında çalışmalıyım. Bu iş için ne gibi belirlemeler yapılır ve ne kadar önceden haberi almalıyım?,1,4857-70,llm,evet
+130,Ahlak ve iyiniyet kurallarına uymayan haller sebebiyle iş sözleşmesini fesih yetkisi ne zaman sona erer?,1,4857-26,qa_benchmark,evet
+132,Yıllarca işimde %10 ekstra ücret alıyorum. İşveren benim bu menfaatimin saklı olduğunu iddia ediyor. Saklı haklar hakkında ne olabilir?,1,4857-45,llm,evet
+134,"Geçici iş ilişkisinde, benim ödenmemiş ücretlerimle ilgili sorumluluklar ne oluyor? Bu sorumluluklar devreden işverenin bilemiş olabilir mi?",1,4857-7,llm,evet
+136,"Eve gelen işverenim, iş hayatının denetimi konusunda ne tür bir ceza almış olabilir? ",1,4857-107,llm,evet
+137,"Benimle bir sözleşme sona erdi, ancak işten çıkarken kıdem tazminatı ödenmedi. Hangi süre içinde beni tazminat ödemesi için davada tutabilirim ve faizler ne kadar olabilir?",1,1475-14,llm,evet
+138,"Ulusal bayram ve genel tatillerde çalışacak olursam, bu günlük ücretlerim ne olacak?",1,4857-44;4857-47,llm,evet
+141,"Çalıştığım işyerinde 10 işçi çıkarmak isteyen bir işveren olduğumuzda, en az ne kadar idari para cezası ödensebilir?",1,4857-100,llm,evet
+144,"Takım sözleşmesinde belirlenen şartlarla bir iş sözleşmesi kurulduğunda, ücret nasıl ödenir?",1,4857-16,llm,evet
+145,"Yıllık ücretli izin günlerinin hesabında, izin süresine rastlayan ulusal bayram, hafta tatili ve genel tatil günleri nasıl kabul edilir?",1,4857-56,qa_benchmark,evet
+146,"3 yıldır çalışıyorum, bir müteahhit tarafından işten çıkarılırsa, ne kadar önceden haber verilmeli? Müteahhitin veya taşeronun hakedişlerinden ücretleri ödememesi durumunda, bu maddeye göre ne oluyor?",1,4857-36,llm,evet
+148,"Sağlık sebeplerinden dolayı işten çıkarılıyorum, bir aydan fazla devamsızlık yaşandıktan sonra işveren ne yapabilir? ",1,4857-25,llm,evet
+150,"Alt işverenimden ayrıldığım ve son iş sözleşmesimde kıdem tazminatı ödenmesi gerektiği belirtilmişken, kıdem tazminatı nasıl hesaplanır ve ödenir? ",1,4857-112,llm,evet
+151,"İşveren benim için esaslı bir çalışma koşulu değişikliği yapacak olursa, ne kadar önceden yazılı olarak bildirilmeli? Değişikliği reddediyorum, ne yapabilirim?",1,4857-22,llm,evet
+155,"3 yıldır çalışıyorum, işten çıkarılırsa ne tür bir belge almalıyım ve bu belgede ne bilgiler bulunmalıdır?",1,4857-28,llm,evet
+158,Devralan işveren işçinin hizmet süresini esas alan haklarda hangi tarihe göre işlem yapmakla yükümlüdür?,1,4857-6,qa_benchmark,evet
+159,Yazılı iş sözleşmesi yapılmadığında işveren işçiye hangi bilgileri ne kadar süre içerisinde yazılı olarak bildirmek zorundadır?,1,4857-8,qa_benchmark,evet
+160,İşveren beni işten çıkarmak isteyebilir mi? Bunun durumunda miktarda önceden bilgi verilecek izin ücreti ne kadar olur?,1,4857-59,llm,evet
+162,Geçici iş ilişkisi ile çalışacak beş işçiyi nasıl belirleyebilirim ve bu işçilerin çalışma süresi ne olabilir?,1,4857-7,llm,evet
+163,"İş hayatımıza giren bir işçinin, meslek grupları tarafından başvurduğu bir dilekçeyi ilan etmek istiyorum. Bu durumda damga vergisini ödemeli miyim?",1,4857-94,llm,evet
+164,"İşveren benimle yazılı bir sözleşme yapmadı, ancak çalışma koşulları ve ücret bilgilerini yazılı bir şekilde belirtti. Bu belgenin ne zaman verileceğini biliyor musun?",1,4857-8,llm,evet
+167,"İşyerimde 200 işçi çalışmaktadır. Toplu çıkarılma olasıysa, en az kaç işçi çıkarılabilir ve bu durumda İşyeri hangi süreçlerden geçmelidir?",1,4857-29,llm,evet
+168,"Eğer işten çıkarılıyorsam, işçinin nafaka hakkı nedeniyle saklanan parayı ne zaman alabilirim?",1,4857-35,llm,evet
+169,Ara dinlenmesi süresi ne kadar olabilir?,1,4857-68;4857-67,qa_benchmark,evet
+170,Bir işveren ile partial (kısa süreli) çalışma sözleşmesi var. Bu tür sözleşmelerde çalışma biçiminde nasıl değişiklik olabilir?,1,4857-9;4857-13,llm,evet
+173,Tutuklama kararını kimler verebilir?,0,,qa_benchmark,evet
+174,Türkiye ile savaş halinde olan bir devletten unvan veya şeref kabul etmenin cezai sonuçları nelerdir?,0,,qa_benchmark,evet
+175,"Kiracıya, kira bedeli ve yan giderler dışında başka hangi ödeme yükümlülüğü getirilemez?",0,,qa_benchmark,evet
+176,Kişinin özel hayatının gizliliğine ilişkin hangi bilgiler bilgi edinme hakkı kapsamı dışında kalır?,0,,qa_benchmark,evet
+177,Türk Ceza Kanunu'nda hangi suçlar yabancı ülkede işlenmesi durumunda Türk kanunlarına tabi olur?,0,,qa_benchmark,evet
+180,"Yasal veya yargısal devir gerçekleştiğinde, devir üçüncü kişilere karşı ileri sürülebilir mi?",0,,qa_benchmark,evet
+181,"Önalım hakkı sahibi, önalım hakkını kullanmak için hangi süre içinde dava açmak zorundadır?",0,,qa_benchmark,evet
+182,Hangi kişiler mirasçı olamaz?,0,,qa_benchmark,evet
+183,Bilgi edinme başvurusu hangi iletişim araçlarıyla yapılabilir?,0,,qa_benchmark,evet
+184,"Dernek kurma hürriyeti, bazı durumlarda sınırlandırılabilir. Anayasa bu sınırlamaları hangi durumlarda mümkün kılar?",0,,qa_benchmark,evet
+185,"Temyiz dilekçesinde gösterilmese bile, hangi durumlarda hukuka kesin aykırılık var sayılır?",0,,qa_benchmark,evet
+186,Yasama dokunulmazlığının kaldırılmasına veya milletvekilliğinin düşmesine karar verilmesi durumunda kararın iptali için nereye başvurulabilir?,0,,qa_benchmark,evet
+188,"Devletin silahlı kuvvetlerine ait olan kara, deniz ve hava ulaşım araçlarını tahrip eden kişiye hangi ceza verilir?",0,,qa_benchmark,evet
+189,"Bir yapının başkasına ait araziye taşırılan kısmı, yapıyı yapan malik taşırılan arazi üzerinde bir irtifak hakkına sahip değilse ne olur?",0,,qa_benchmark,evet
+190,Evlilik birliğinin korunmasına yönelik önlemler konusunda yetkili mahkeme hangisidir?,0,,qa_benchmark,evet
+194,"Rızaya dayalı olsa bile, yetkisiz bir kişi tarafından yapılan kısırlaştırma eylemi ne kadar hapis cezası gerektirir?",0,,qa_benchmark,evet
+195,Sahte banka veya kredi kartı kullanarak haksız kazanç sağlayan kişiye verilebilecek en hafif ceza nedir?,0,,qa_benchmark,evet
+196,Beş yıldan fazla ve yirmi yıldan az hapis cezasını gerektiren suçlarda dava zamanaşımı süresi ne kadardır?,0,,qa_benchmark,evet
+199,Tanımanın iptali davası açma süresi kaç yıldır?,0,,qa_benchmark,evet
+202,Anayasa Mahkemesi asıl üye sayısı onbire ininceye kadar dava ve işlerde hangi kanunun öngördüğü toplanma yeter sayısı uygulanır?,0,,qa_benchmark,evet
+203,Geri verme yükümlülüğünü yerine getirmek için mirasçının hangi iki seçenekten birini seçmesi gerekir?,0,,qa_benchmark,evet
+204,"Sanığın, doğrudan doğruya davet ettireceği bilirkişi ve tanıkların ad ve adreslerini bildirmekle yükümlü olduğu kişi kimdir?",0,,qa_benchmark,evet
+205,"Bir kişinin sorumluluğu birden fazla sebebe dayanıyorsa, hâkim ne yapar?",0,,qa_benchmark,evet
+207,"Hangi durumlarda, şüpheli veya sanığa, istemi aranmaksızın bir müdafi görevlendirilir?",0,,qa_benchmark,evet
+209,Halkı hükümete karşı silahlı isyana teşvik eden kişiye hangi ceza verilir?,0,,qa_benchmark,evet
+211,Bölge adliye veya ilk derece mahkemesinin Yargıtaydan verilen bozma kararına karşı hangi hakkı vardır?,0,,qa_benchmark,evet
+212,Resmî vasiyetnamede kimlere vasiyet yoluyla kazanım sağlanamaz?,0,,qa_benchmark,evet
+214,Savunmasız bir kişiye karşı işlenen yağma suçunda ceza nasıl belirlenir?,0,,qa_benchmark,evet
+215,Kanunun uygulanmasında bakan uyarınca öngörülen hukuki süreç nasıl işlemektedir?,0,,qa_benchmark,evet
+216,Rehinli bir taşınmaz için bedel olarak ödenen para nasıl bölüştürülür?,0,,qa_benchmark,evet
+217,"Devralan, garanti ile yükümlü olan devredenden hangi taleplerde bulunabilir?",0,,qa_benchmark,evet
+218,Eşler arasındaki mal rejimi tasfiyesi davalarında hangi mahkemeler yetkilidir?,0,,qa_benchmark,evet
+219,"Suça iştirak eden her kişi, diğerinin cezalandırılmasını önleyen kişisel nedenler göz önünde bulundurulmaksızın kendi kusurlu fiiline göre cezalandırılır mı?",0,,qa_benchmark,evet
+220,"Hüküm, bozulmasına neden olan hukuka aykırılık, bu hükme esas olarak saptanan işlemlerden kaynaklanmış ise ne bozulur?",0,,qa_benchmark,evet
+221,Mala zarar verme suçunun cezası hangi durumlarda iki katına çıkarılabilir?,0,,qa_benchmark,evet
+223,Hukuka veya ahlaka aykırı amaçlarla dernek kurulabilir mi?,0,,qa_benchmark,evet
+224,"Anayasa Mahkemesi, iptal davası açma hakkını kimlere verir?",0,,qa_benchmark,evet
+225,Tenkis davası açma süresi ne kadar?,0,,qa_benchmark,evet
+226,Kefilin asıl borç ilişkisinin hükümsüz hale gelmesinden dolayı zarardan sorumlu olması geçerli midir?,0,,qa_benchmark,evet
+227,Yetkili bir temsilci tarafından bir başkası adına ve hesabına yapılan hukuki işlemin sonuçları kimleri bağlar?,0,,qa_benchmark,evet
+231,Mirasbırakanın ölümünde onunla birlikte yaşayan ve onun tarafından bakılan kimseler ne isteyebilir?,0,,qa_benchmark,evet
+232,"Eşlerden biri diğerine ait olup, paylaştırma dışı kalan bir malın edinilmesine, iyileştirilmesine veya korunmasına katkıda bulunmuşsa ne olur?",0,,qa_benchmark,evet
+233,İdari soruşturmaya ilişkin hangi bilgilerin kamuya açıklanması yasaktır?,0,,qa_benchmark,evet
+234,Bir yapının ayıplı olmasından doğan davaların zamanaşımı süresi ne kadardır?,0,,qa_benchmark,evet
+235,"Özel af ilan edildiğinde, kamu davasının düşmesi malların geri alınmasını etkiler mi?",0,,qa_benchmark,evet
+237,"Hâkim veya mahkeme, tutukevinde bulunan sanığın tutukluluk hâlinin devamının gerekip gerekmeyeceğine ne zaman karar verir?",0,,qa_benchmark,evet
+238,Uluslararası casusluk suçunun failinin bir Türk vatandaşı olması veya yabancı bir uyruklu olması ceza süresini etkiler mi?,0,,qa_benchmark,evet
+240,"Sanık, yetkisizlik iddiasını, ilk derece mahkemelerinde duruşmada sorgusundan, bölge adliye mahkemelerinde incelemenin başlamasından ve duruşmalı işlerde inceleme raporunun okunmasından önce bildirmek zorunda mı?",0,,qa_benchmark,evet
+242,Boşanma işlemi nasıl yapılır? Belirli adımları nasıl izlerim?,0,,llm,evet
+243,Nafaka nedir ve boşanma durumunda nasıl hesaplanır? Nafaka hakkı olan kişi kimdir?,0,,llm,evet
+244,Boşanma sonucunda evlatların mahremiyetine ne olur? Evlatların hakkı olup olmadığını merak ediyorum.,0,,llm,evet
+245,Bir vasiyetname yapmadan önce neler dikkate almalıyım?,0,,llm,evet
+246,Miras haklarımı korumak için hangi adımları izleyebilirim?,0,,llm,evet
+247,Ebeveynlerimden miras alırken belirli malların miras dışı olması durumunda ne yapmalıyım?,0,,llm,evet
+248,Trafik cezalarının temel nedenleri nedir?,0,,llm,evet
+249,Trafik cezaları öncesi ve sonrası için rehberlik sağlayan yerlerin adı nedir ve nerede bulunabilir?,0,,llm,evet
+250,Trafik cezalarından sorumlu yetkili kurumlar hangileridir ve hangi davalarla ilgilendikleri belirtilir?,0,,llm,evet
+251,Kira artışı ve tahliye konusunda ne tür bir anlaşma yapılır?,0,,llm,evet
+252,Kira tahliyesi yapmadan önce yapmamız gereken adımlar nedir?,0,,llm,evet
+253,Kira artışıyla ilgili anlaşmazlıklar yaşarsak ne yapmalıyız?,0,,llm,evet
+254,Tüketici hakları ne anlama geliyor ve benim ne tür hukuken koruma sağlıyor?,0,,llm,evet
+255,Ayıplı mal satışı ne anlama geliyor ve bu tür bir satışta benim hakkımda ne gibi talimatlara sahibim?,0,,llm,evet
+256,Bir ayıplı mal satın aldıktan sonra ne tür bir eylem benim için uygun olabilir?,0,,llm,evet
+257,Veri toplama ve beyanname vermek arasındaki farklar nedir?,0,,llm,evet
+259,"Veri toplamada beyanname vermek durumunda, kişinin haklarına ve sorumluluğuna nasıl katkıda bulunulabilir?",0,,llm,evet
+260,Hırsızlık ve dolandırıcılık suçlarına tanık olduğumuzda ne yapılması gerektiği konusunda bana bilgi verebilir misiniz?,0,,llm,evet
+261,Türk hukukunda hırsızlık ve dolandırıcılık cezalandırmasının nasıl yapıldığını bana açıkça anlatabilir misiniz?,0,,llm,evet
+262,Hırsızlık ve dolandırıcılık suçlarıyla ilgili olarak kendimden şikayet etmek ve ilgilenebileceklerine nasıl ulaşabilirim?,0,,llm,evet
+263,Tapu nedir ve ne işe yarar?,0,,llm,evet
+264,Gayrimenkul satışı yaparken dikkat edilmeli olan önemli noktalar nelerdir?,0,,llm,evet
+265,Tapu işlemi neye benziyor ve ne zaman yapılmalıdır?,0,,llm,evet
+266,"Askere giden arkadaşım, hangi imkanlarla askerlik hizmetini kolaylaştıracak?",0,,llm,evet
+267,Askere giden bir arkadaşım var. Hangi hususlarda askerlik hizmeti sırasında uzmanlaşabilir ve işe yarayacak beceriler edinebilir?,0,,llm,evet
+268,Askere giden bir dostum var. Sosyal hizmetlerden faydalanıp askerlik hizmetini daha iyi geçirebileceğini mi düşünüyorsunuz?,0,,llm,evet
+269,İnce lekenin nasıl hazırlanacağını söyler misiniz?,0,,llm,evet
+270,Limonun tadını çok fazla çıkarmak için ne yapmalıyım?,0,,llm,evet
+271,Bu tarifte zeytinin kaç tane olması gerektiği nedir?,0,,llm,evet

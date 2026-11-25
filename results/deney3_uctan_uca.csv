@@ -1,0 +1,3 @@
+﻿,Accuracy,Precision,Recall,F1,Doğru kaynak oranı,Ort. süre (sn)
+Basit RAG,0.866,0.945,0.8,0.867,0.942,2.319
+Self-Corrective RAG,0.933,1.0,0.877,0.934,0.93,4.393
